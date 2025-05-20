@@ -1,0 +1,3 @@
+student_id,interests,skill_level,preferred_mode,career_goals,available_time,budget
+S001,"security,cloud",intermediate,offline,analyst,full-time,550
+S002,"data science,statistics",beginner,online,data scientist,part-time,450
