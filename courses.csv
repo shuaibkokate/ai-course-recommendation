@@ -1,0 +1,4 @@
+course_code,title,math_req,science_req,english_req,GPA_req,interest_AI,interest_business,career
+CSE101,Intro to AI,80,85,0,,1,0,AI Engineer
+BUS102,Marketing,0,0,80,,0,1,Marketing
+DS201,Data Science Basics,0,0,0,3.0,1,0,Data Scientist
